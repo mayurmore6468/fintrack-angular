@@ -12,7 +12,7 @@ FinTrack is a budget planner application built using Angular. It helps you track
 
 ## Screenshots
 
-![Dashboard Screenshot](screenshots/dashboard.png)
+[Dashboard Screenshot](screenshots/dashboard.png)
 ![Expense Screenshot](screenshots/expense.png)
 ![Income Screenshot](screenshots/income.png)
 ![To Do Transacton Screenshot](screenshots/to_do_tran.png)
