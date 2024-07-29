@@ -92,13 +92,11 @@ We welcome contributions to FinTrack! Please follow these steps to contribute:
 
 ## Contact
 
-For any questions or feedback, please reach out to us at support@fintrack.com.
-Email: mayurmore6468@gmail.com
-GitHub: [mayurmore6468](https://github.com/mayurmore6468)
+For any questions or feedback, please reach out to us at:
+- Email: mayurmore6468@gmail.com
+- GitHub: [mayurmore6468](https://github.com/mayurmore6468)
 
 ---
 
 **FinTrack** - Your ultimate financial companion.
 ```
-
-Replace placeholders such as `https://github.com/yourusername/fintrack.git` and `support@fintrack.com` with your actual GitHub repository URL and contact email. Additionally, update the screenshots section with actual paths to your screenshot images if available.
