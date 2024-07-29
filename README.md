@@ -96,7 +96,3 @@ For any questions or feedback, please reach out to us at:
 - Email: mayurmore6468@gmail.com
 - GitHub: [mayurmore6468](https://github.com/mayurmore6468)
 
----
-
-**FinTrack** - Your ultimate financial companion.
-```
